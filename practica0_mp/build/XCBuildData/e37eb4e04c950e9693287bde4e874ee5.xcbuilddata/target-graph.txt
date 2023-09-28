@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'practica0_mp' in project 'practica0_mp' (no dependencies)
